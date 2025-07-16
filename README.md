@@ -14,3 +14,4 @@ Check out the live demo [here](https://gemini-ai-clone-frontend.netlify.app/).
 - **Responsive Design**: Ensures optimal user experience across various devices and screen sizes.
 # GeminiTry
 # GeminiTry
+# GeminiTry
