@@ -14,11 +14,7 @@ A modern, responsive web application inspired by Google's Gemini AI, built with 
 - Responsive and modern UI
 - State management with custom store
 
-## 📸 Screenshots
 
-<p align="center">
-  <img src="./src/component/gemini-clone.png" width="600" alt="Gemini AI Clone Screenshot" />
-</p>
 
 ## 🛠️ Tech Stack
 
